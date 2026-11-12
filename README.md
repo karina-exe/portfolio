@@ -15,3 +15,9 @@ Para a criação das duas seções, foi utilizado como base o elemento <section>
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/html5/original.svg">
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/css3/original.svg">
 - <img align="center" alt="karina-exe" height="50" width="50" src="https://devicon-website.vercel.app/api/bootstrap/original.svg">
+
+# Links Para o Portfólio:
+
+Git Pages: https://karina-exe.github.io/portfolio/
+
+Se o Git Pages não funcionar: https://atividade-ds.tumblr.com/
