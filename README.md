@@ -18,6 +18,6 @@ Para a criação das duas seções, foi utilizado como base o elemento <section>
 
 # Links Para o Portfólio:
 
-Git Pages: https://karina-exe.github.io/portfolio/
+GitHub Pages: https://karina-exe.github.io/portfolio/
 
-Se o Git Pages não funcionar: https://atividade-ds.tumblr.com/
+Se o GitHub Pages não funcionar: https://atividade-ds.tumblr.com/
